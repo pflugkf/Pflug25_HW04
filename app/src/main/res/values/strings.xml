@@ -1,0 +1,13 @@
+<!--Assignment #: HW04
+File Name: Pflug25_HW04 - strings.xml
+Full Name: Kristin Pflug-->
+
+<resources>
+    <string name="app_name">Pflug25_HW04</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="users_fragment_title">Users</string>
+    <string name="filter_fragment_title">Filter By State</string>
+    <string name="sort_fragment_title">Sort</string>
+    <string name="users_filter_button_label">Filter</string>
+    <string name="users_sort_button_label">Sort</string>
+</resources>
